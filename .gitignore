@@ -1,0 +1,26 @@
+public/
+resources/
+.hugo_build.lock
+
+# Claude Code local state
+.claude/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Env / secrets
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+credentials.*
+
+# Drafts / private content (opt-in)
+content/**/_draft_*
+content/_private/

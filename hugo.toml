@@ -1,0 +1,39 @@
+baseURL = 'https://joker-cold.github.io/SelfWeb/'
+languageCode = 'zh-cn'
+title = 'Joker Cold'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  showReadingTime = false
+  showShareButtons = false
+  showBreadCrumbs = true
+
+  [params.homeInfoParams]
+    Title = "Hi, I'm Joker Cold"
+    Content = "Developer | Builder | Explorer"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Joker-Cold"
+
+  # 邮箱已做文本混淆，防止爬虫抓取导致垃圾邮件
+  # 展示为：joker1457g At gmail dot com（需要人工识别并拼接）
+  [[params.socialIcons]]
+    name = "email"
+    url = "#joker1457g-At-gmail-dot-com"
+
+[[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menus.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 3
