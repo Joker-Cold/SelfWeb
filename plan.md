@@ -87,9 +87,13 @@ content/
 ├── about/
 │   └── index.md           # 关于我
 ├── projects/
-│   ├── _index.md          # 项目列表页
-│   ├── project-1.md       # 项目详情
-│   └── project-2.md
+│   ├── _index.md                          # 项目列表页
+│   ├── cicc2025-fpga-edu-platform/        # page bundle (含 index.md + 资源)
+│   │   └── index.md
+│   ├── ptl-high-speed-multiplier/
+│   │   └── index.md
+│   └── frame-diff-motion-tracking/
+│       └── index.md
 └── contact/
     └── index.md           # 联系方式
 ```

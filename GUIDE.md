@@ -122,7 +122,7 @@ layout: "single"
 
 ### 编辑项目页面
 
-文件：`content/projects/project-1.md`
+文件：`content/projects/<项目英文短名>/index.md`（page bundle 形式，资源与正文同目录）
 
 ```markdown
 ---
