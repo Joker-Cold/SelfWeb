@@ -6,18 +6,9 @@ showToc: false
 
 ## About Me
 
-Hello! I'm Joker Cold.
-
-<!-- TODO: Replace with your real info -->
-
-A developer passionate about building things.
-
-## Skills
-
-- **Languages**: Python, JavaScript, Go
-- **Frameworks**: React, Vue, Django
-- **Tools**: Docker, Git, Linux
+Hello! I'm MurryZhu.
 
 ## Education
 
-- B.S. in Computer Science — University Name (20XX - 20XX)
+- **B.E.** — 电子科技大学 (University of Electronic Science and Technology of China), 2022 - 2026
+- **M.S.** — 浙江大学 (Zhejiang University), 2026 - 2029
